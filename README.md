@@ -32,7 +32,7 @@ The arena acts as an active component of the game loop, featuring three sensor-i
 
 ---
 
-## 🧩 Game Logic & Workflow
+##  Game Logic & Workflow
 
 1.  **Initialization:** Both robots spawn in the arena.
 2.  **Obstacle Clearance (SARM):** The SARM identifies blocked paths and physically moves obstacles to neutral zones.
