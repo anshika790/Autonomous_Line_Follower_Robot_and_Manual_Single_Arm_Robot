@@ -1,7 +1,7 @@
 # Autonomous_Line_Follower_Robot_and_Manual_Single_Arm_Robot
 
 ##  Project Overview
-This repository contains the simulation and hardware logic for the **Lam Research Challenge 2025: Hardware Hustle**. The project implements a coordinated dual-robot system designed to autonomously navigate a "Smart Arena," manipulate obstacles, and manage precise fluid dynamics tasks.
+This repository contains the hardware logic for the **Lam Research Challenge 2025: Hardware Hustle**. The project implements a coordinated dual-robot system designed to autonomously navigate a "Smart Arena," manipulate obstacles, and manage precise fluid dynamics tasks.
 
 The system features two distinct robotic units working in tandem:
 1.  **ALFR (Autonomous Line Follower Robot):** Handles navigation and task triggering.
