@@ -9,7 +9,7 @@ The system features two distinct robotic units working in tandem:
 
 ## Hardware & System Architecture
 
-### 1. Advanced Line Follower Robot (ALFR)
+### 1. Autonomous Line Follower Robot (ALFR)
 * **Role:** Autonomous Navigation & Task Triggering
 * **Drive Logic:** PID-based line following algorithm.
 * **Behavior:** Implements "Wait & Resume" logic. The robot pauses at blocked junctions and resumes only after obstacles are cleared by the SARM.
